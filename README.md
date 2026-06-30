@@ -5,12 +5,16 @@ MCA Graduate | Tech Enthusiast specializing in Cloud & Networking
 Computer Science graduate with an MCA degree, bringing strong fundamentals in software development, networking, and cloud computing. I enjoy building projects that solve real problems and understanding how technology connects at scale. Currently seeking opportunities to start my career in the tech industry.
 
 Education
+
+
 Master of Computer Applications (MCA) | 2024–2026, KMM College of Arts and Science, Thrikkakara 
 
 
 B.Sc. Computer Science | 2021–2024, University Institute of Technology, Kollam
 
 Core Technical Skills
+
+
 Cloud & DevOps: AWS EC2, S3, CloudFront, IAM, VPC, CloudWatch, Linux Server Administration
 
 
@@ -24,6 +28,8 @@ Database: MySQL, DBMS Concepts
 
 
 Tools & OS: Git, GitHub,VS code, Linux Ubuntu, Windows
+
+
 CS Fundamentals: Operating Systems, Computer Networks, Data Structures, OOP
 
 Projects
@@ -42,6 +48,8 @@ Projects
    - Focused on data integrity and cryptographic principles for evidence management
 
 Certifications & Courses
+
+
 NPTEL – Database Management System - Course Completed
 
 
