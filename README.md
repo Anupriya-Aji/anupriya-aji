@@ -56,9 +56,13 @@ NPTEL – Database Management System - Course Completed
 AWS Cloud Practitioner Essentials - Course Completed
 
 What I'm Looking For
+
+
 Open to entry-level opportunities in the technology sector where I can contribute, learn, and grow. Keen to apply my skills in software development, cloud computing, and networking in a collaborative environment.
 
 Let's Connect
+
+
 Email: anupriyaaji07@gmail.com
 LinkedIn: https://www.linkedin.com/in/anupriya-aji-1a5b8541a
 Location: Kollam, Kerala, India
