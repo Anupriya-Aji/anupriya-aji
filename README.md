@@ -6,14 +6,24 @@ Computer Science graduate with an MCA degree, bringing strong fundamentals in so
 
 Education
 Master of Computer Applications (MCA) | 2024–2026, KMM College of Arts and Science, Thrikkakara 
+
+
 B.Sc. Computer Science | 2021–2024, University Institute of Technology, Kollam
 
 Core Technical Skills
 Cloud & DevOps: AWS EC2, S3, CloudFront, IAM, VPC, CloudWatch, Linux Server Administration
+
+
 Networking: TCP/IP, DNS, HTTP/HTTPS, SSH, Security Groups, IP Addressing, Firewalls, CDN
+
+
 Programming: Python, Java - Basic, HTML, CSS
+
+
 Database: MySQL, DBMS Concepts
-Tools & OS: Git, GitHub, Linux Ubuntu, Windows
+
+
+Tools & OS: Git, GitHub,VS code, Linux Ubuntu, Windows
 CS Fundamentals: Operating Systems, Computer Networks, Data Structures, OOP
 
 Projects
@@ -33,6 +43,8 @@ Projects
 
 Certifications & Courses
 NPTEL – Database Management System - Course Completed
+
+
 AWS Cloud Practitioner Essentials - Course Completed
 
 What I'm Looking For
