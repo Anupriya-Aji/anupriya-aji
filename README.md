@@ -64,7 +64,11 @@ Let's Connect
 
 
 Email: anupriyaaji07@gmail.com
+
+
 LinkedIn: https://www.linkedin.com/in/anupriya-aji-1a5b8541a
+
+
 Location: Kollam, Kerala, India
 
 
